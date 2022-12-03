@@ -1,0 +1,27 @@
+{
+   "alt_url":"https://data.humdata.org/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/",
+   "cache_last_updated":"None",
+   "cache_url":"None",
+   "created":"2017-08-04T05:47:27.871627",
+   "datastore_active":false,
+   "description":"Who is doing what and where in Kenya ",
+   "download_url":"https://data.humdata.org/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/kenya-3w-final-list-2017.xlsx",
+   "format":"XLSX",
+   "hash":"",
+   "hdx_rel_url":"/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/kenya-3w-final-list-2017.xlsx",
+   "id":"4fa5ea69-7020-494e-8245-4771d2f6b7d0",{'alt_url': 'https://data.humdata.org/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/', 'cache_last_updated': None, 'cache_url': None, 'created': '2017-08-04T05:47:27.871627', 'datastore_active': False, 'description': 'Who is doing what and where in Kenya ', 'download_url': 'https://data.humdata.org/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/kenya-3w-final-list-2017.xlsx', 'format': 'XLSX', 'hash': '', 'hdx_rel_url': '/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/kenya-3w-final-list-2017.xlsx', 'id': '4fa5ea69-7020-494e-8245-4771d2f6b7d0', 'last_modified': '2017-08-04T05:47:27.689064', 'metadata_modified': '2022-01-04T21:34:52.779487', 'microdata': False, 'mimetype': None, 'mimetype_inner': None, 'name': 'KENYA 3W FINAL LIST 2017.xlsx', 'originalHash': '97196323', 'package_id': 'cda96bea-ee01-41ea-b5ef-6e455c770557', 'position': 0, 'resource_type': 'file.upload', 'size': None, 'state': 'active', 'url': 'https://data.humdata.org/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/kenya-3w-final-list-2017.xlsx', 'url_type': 'upload'}
+   "last_modified":"2017-08-04T05:47:27.689064",
+   "metadata_modified":"2022-01-04T21:34:52.779487",
+   "microdata":false,
+   "mimetype":"None",
+   "mimetype_inner":"None",
+   "name":"KENYA 3W FINAL LIST 2017.xlsx",
+   "originalHash":"97196323",
+   "package_id":"cda96bea-ee01-41ea-b5ef-6e455c770557",
+   "position":0,
+   "resource_type":"file.upload",
+   "size":"None",
+   "state":"active",
+   "url":"https://data.humdata.org/dataset/cda96bea-ee01-41ea-b5ef-6e455c770557/resource/4fa5ea69-7020-494e-8245-4771d2f6b7d0/download/kenya-3w-final-list-2017.xlsx",
+   "url_type":"upload"
+}
