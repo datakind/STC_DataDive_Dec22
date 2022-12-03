@@ -9,3 +9,4 @@ stop-words>=2018.7.23
 pyemd>=0.5.1
 python_dotenv>=0.19.0
 openpyxl==3.0.10
+hdx-python-api==5.9.3 
