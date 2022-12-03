@@ -1,0 +1,85 @@
+// Data
+{
+   "archived":false,
+   "creator_user_id":"e780fabb-29f0-4c65-92a9-ed8896f7faf6",
+   "data_update_frequency":"-1",
+   "dataset_date":"[2017-02-28T00:00:00 TO 2017-02-28T23:59:59]",
+   "dataset_preview":"first_resource",
+   "dataset_source":"Multiple Sources",
+   "has_geodata":false,
+   "has_quickcharts":false,
+   "has_showcases":false,
+   "id":"cda96bea-ee01-41ea-b5ef-6e455c770557",
+   "is_requestdata_type":false,
+   "isopen":true,
+   "last_modified":"2017-08-04T05:47:27.689064",
+   "license_id":"cc-by",
+   "license_title":"Creative Commons Attribution International",
+   "license_url":"http://www.opendefinition.org/licenses/cc-by",
+   "maintainer":"7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+   "metadata_created":"2017-08-04T05:47:26.328855",
+   "metadata_modified":"2022-01-04T21:34:52.770142",
+   "methodology":"Registry",
+   "name":"kenya-who-is-doing-what-and-where-2017",
+   "notes":"Dataset shows who is doing what and where  (3W) in kenya. This data was collected for the Kenya drought response",
+   "num_resources":1,
+   "num_tags":1,
+   "organization":{
+      "id":"37a0c6e3-3bcd-4457-aa81-6ddeb99dd203",
+      "name":"ocha-rosea",
+      "title":"OCHA Regional Office for Southern and Eastern Africa (ROSEA)",
+      "type":"organization",
+      "description":"In 2016, OCHA merged its offices in Johannesburg and Nairobi into the OCHA Regional Office for Southern and Eastern Africa (ROSEA), covering 25 countries.\r\n\r\nComprising the Horn of Africa and the Great Lakes, eastern Africa is a region in which emergencies tend to be large scale, resulting in significant displacement and other needs. For this reason, OCHA maintains country presences in Burundi, DRC, Eritrea, Ethiopia, Kenya, Somalia, South Sudan and Sudan. The southern Africa region has fewer protracted humanitarian crises, but is prone to drought and floods. For this reason, OCHA does not have country offices in the region. In both regions the 2015-2016 El Nino weather phenomenon continues to have a significant humanitarian impact.\r\n\r\nFor those countries where OCHA does not have a presence, it is essential that OCHA can deploy from the regional hub swiftly and effectively in times of emergency, and to otherwise ensure preparedness for potential crises. OCHA works closely with local authorities and partners to bolster national disaster preparedness in these countries and supports response.\r\n\r\nWhether we’re mobilizing relief money or raising awareness of forgotten crises, it’s our mandate to keep world attention focused on humanitarian issues. For this reason, we produce and release timely regional reporting and analytical products to strengthen the humanitarian case and highlight the needs of the most vulnerable in the region. OCHA ROSEA also provides a platform for the analysis of cross-border issues of humanitarian concern, such as facilitating multi-country preparedness and planning consultations. OCHA ROSEA also works to strengthen collaboration on emergency preparedness and response with regional bodies, such as the Intergovernmental Authority on Development (IGAD) in eastern Africa and the Southern Africa Development Community (SADC) in southern Africa.",
+      "image_url":"",
+      "created":"2014-04-28T17:49:00.350372",
+      "is_organization":true,
+      "approval_status":"approved",
+      "state":"active"
+   },
+   "owner_org":"37a0c6e3-3bcd-4457-aa81-6ddeb99dd203",
+   "package_creator":"marindi",
+   "pageviews_last_14_days":10,
+   "private":false,
+   "qa_checklist":"{\"modified_date\": \"2020-03-10T13:11:25.033088\", \"version\": 1, \"dataProtection\": {}, \"metadata\": {}}",
+   "qa_completed":false,
+   "review_date":"2020-03-10T08:58:12.319001",
+   "solr_additions":"{\"countries\": [\"Kenya\"]}",
+   "state":"active",
+   "subnational":"1",
+   "title":"Kenya - Who is doing what and where 2017",
+   "total_res_downloads":397,
+   "type":"dataset",
+   "updated_by_script":"HDXPythonLibrary/5.4.8-test (2022-01-04T21:34:52.584503)",
+   "url":"None",
+   "version":"None",
+   "groups":[
+      {
+         "description":"",
+         "display_name":"Kenya",
+         "id":"ken",
+         "image_display_url":"",
+         "name":"ken",
+         "title":"Kenya"
+      }
+   ],
+   "tags":[
+      {
+         "display_name":"who is doing what and where - 3w - 4w - 5w",
+         "id":"95148ea9-a869-4ed6-9150-4492a0303711",
+         "name":"who is doing what and where - 3w - 4w - 5w",
+         "state":"active",
+         "vocabulary_id":"b891512e-9516-4bf5-962a-7a289772a2a1"
+      }
+   ],
+   "relationships_as_subject":[
+      
+   ],
+   "relationships_as_object":[
+      
+   ],
+   "is_fresh":false,
+   "update_status":"unknown",
+   "x_resource_grouping":[
+      
+   ]
+}
