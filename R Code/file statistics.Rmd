@@ -1,0 +1,41 @@
+---
+title: "File: fts_incoming_funding_som.csv R Notebook"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+
+```{r, echo=FALSE, include=FALSE}
+  file1 <- read.csv("fts_incoming_funding_som.csv", header = TRUE, stringsAsFactors = FALSE)
+  # remove 1st row with var descriptions
+  file1 <- file1[-1,]
+  #head(file1,2) #delete 1st row - description of variable
+  file1[,4] <- as.numeric(file1[,4])
+  file1[,31] <- as.numeric(file1[,31])
+  file1[file1==""]<-NA
+```
+File dimensions (row, column): `r dim(file1)`
+
+File structure: 
+```{r echo=FALSE}
+  str(file1)
+```
+
+```{r, echo=FALSE, include=FALSE}
+  sum(is.na(file1))
+  totalEntries1 = nrow(file1)*ncol(file1)
+  percentNA_file1 = sum(is.na(file1))/totalEntries1
+```
+
+Percent of Null entries to total entries: `r percentNA_file1`
+
+
+```{r, echo=FALSE,include=FALSE}
+  statFile <- file1[c("amountUSD","originalAmount")]
+```
+Summary statistics for variables amountUSD and originalAmount
+```{r, echo=FALSE}
+  summary(statFile)
+```
