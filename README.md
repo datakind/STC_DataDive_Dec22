@@ -7,7 +7,11 @@ This repo captures code and resources for the Save The Children data dive Q4 202
 
 ## HDX Meta Data Analysis
 
-You can find a document analyzing HDX format [here](https://docs.google.com/document/d/1DUPJeQOzJGMI8qcsaAUQIqTlAv0URAkVrvvkav7PtUo/edit?usp=share_link). There is also a sample script mentioned.
+You can find a document analyzing HDX format [here](https://docs.google.com/document/d/1DUPJeQOzJGMI8qcsaAUQIqTlAv0URAkVrvvkav7PtUo/edit?usp=share_link). There is also a sample script mentioned
+
+## Google files download and load into Postgres DB
+
+There is a basic notebook [here](https://github.com/datakind/STC_DataDive_Dec22/tree/main/notebooks/dividor) which shows how this was done to create a Postgres DB
 
 ## Using the Conda environment
 
